@@ -12,7 +12,7 @@
 
 Profissional atuando com monitoramento de segurança, com foco na análise de desempenho, identificação de ameaças, mitigação de vulnerabilidades e
 garantia da continuidade dos serviços de rede. Cursando Técnico em Redes de Computadores no SENAI de Informática, onde desenvolve habilidades práticas
-e teóricas em ambientes de TI. Participou da preparação intensiva para a WorldSkills #39 na ocupação de Gestão de Sistemas de Redes em TI, 
+e teóricas em ambientes de TI. Participando da preparação intensiva para a WorldSkills #39 na ocupação de Gestão de Sistemas de Redes em TI, 
 adquirindo sólida experiência em sistemas Linux, Windows Server, equipamentos Cisco e técnicas de troubleshooting aplicadas à infraestrutura de redes corporativas.
 <br><br>
 
