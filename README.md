@@ -10,7 +10,10 @@
 
 <img align="right" height="190" src="https://images.pexels.com/photos/17489155/pexels-photo-17489155/free-photo-of-tecnologia-monitor-monitorar-dispositivo.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 
-Experiência em monitoramento de segurança, com foco em desempenho, proteção de redes e continuidade de serviços. Formação técnica em Redes de Computadores pelo SENAI e participação na preparação para a WorldSkills #39 em Gestão de Redes, com ênfase em Linux, Windows Server, Cisco e troubleshooting.
+Profissional atuando com monitoramento de segurança, com foco na análise de desempenho, identificação de ameaças, mitigação de vulnerabilidades e
+garantia da continuidade dos serviços de rede. Cursando Técnico em Redes de Computadores no SENAI de Informática, onde desenvolve habilidades práticas
+e teóricas em ambientes de TI. Participou da preparação intensiva para a WorldSkills #39 na ocupação de Gestão de Sistemas de Redes em TI, 
+adquirindo sólida experiência em sistemas Linux, Windows Server, equipamentos Cisco e técnicas de troubleshooting aplicadas à infraestrutura de redes corporativas.
 
 <br><br><br>
 
