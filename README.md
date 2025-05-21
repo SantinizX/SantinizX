@@ -19,7 +19,7 @@ adquirindo sólida experiência em sistemas Linux, Windows Server, equipamentos 
 ## Ferramentas e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,git,azure,linux,debian,mint,nginx,powershell,aws,vim,raspberrypi,redhat,ubuntu,vscode,windows">
+  <img src="https://skillicons.dev/icons?i=bash,git,ansible,linux,debian,mint,nginx,powershell,aws,vim,raspberrypi,redhat,ubuntu,vscode,windows">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">
