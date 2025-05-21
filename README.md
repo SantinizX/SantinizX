@@ -6,10 +6,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=1000&pause=2000&color=9E9C9C&center=true&vCenter=true&width=435&lines=Network+Engineer%7CNetwork+Automation;SysAdmin;Monitoring%7CSOC">
 </p>
 
-## Sobre mim
+## Conheça-me
 
 <img align="right" height="190" src="https://images.pexels.com/photos/17489155/pexels-photo-17489155/free-photo-of-tecnologia-monitor-monitorar-dispositivo.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 
 Experiência em monitoramento de segurança, com foco em desempenho, proteção de redes e continuidade de serviços. Formação técnica em Redes de Computadores pelo SENAI e participação na preparação para a WorldSkills #39 em Gestão de Redes, com ênfase em Linux, Windows Server, Cisco e troubleshooting.
 
+<br><br><br>
+
+## Ferramentas e Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,git,grafana,linux,debian,mint,nginx,powershell,pycharm,vim,raspberrypi,redhat,ubuntu,vscode,windows">
+</p>
 
