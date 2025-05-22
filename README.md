@@ -24,4 +24,14 @@
   <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff">
 </p>
 
+## Certificações
+
+- <img src="https://img.shields.io/badge/CCNA_Enterprise_Networking_Security_and_Automation-t?style=plastic&logo=cisco&logoColor=black&labelColor=white&color=gray">
+- <img src="https://img.shields.io/badge/FORTINET_Certified_Associate_Cybersecurity-t?style=plastic&logo=fortinet&logoColor=red&labelColor=white&color=red">
+- <img src="https://img.shields.io/badge/FORTINET_FortiGate_7.4_Operator-t?style=plastic&logo=fortinet&logoColor=red&labelColor=white&color=red">
+- <img src="https://img.shields.io/badge/AWS_Cloud_Foundations-t?style=plastic&logo=amazonwebservices&logoColor=black&labelColor=white&color=darkblue">
+- <img src="https://img.shields.io/badge/AWS_Academy_Cloud_Developing-t?style=plastic&logo=amazonwebservices&logoColor=black&labelColor=white&color=darkblue">
+
+
+
 
